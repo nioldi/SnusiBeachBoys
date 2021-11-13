@@ -1,6 +1,19 @@
-Ein Version Control System (VCS) ist ein Programm, das Änderungen von Dateien in einem Ordner (Repository) verfolgt.
-Diese Änderungen kann man nachverfolgen mit dem VCS und zu älteren Punkten in der Vergangenheit springen, um die alten Dateien zu bekommen.
-VCS ist die perfekte Umgebung, um mit Kollegen zusammenzuarbeiten, jeder macht Änderungen am Code und dann kann man jede Datei mit „merge“ zu einer zusammenführen.
-Für neue Projekte kann man neue „branches“ erstellen und dort den Code hochzuladen und nicht mit anderen Projekten in Verbindung kommen.
-Einfach ein git repository auf Github zum Beispiel erstellen und man hat schon einen öffentlichen Platz um Dateien zu teilen.
-Jeder kann einen eigenen branch erstellen indem er nur seine dateien hochläd und es kann auch einen main branch geben, auf dem öffentliche Dateien sind.
+Ein Version Control System (VCS) ist ein Programm,
+das Änderungen von Dateien in einem Ordner (Repository) verfolgt.
+Diese Änderungen kann man nachverfolgen 
+mit dem VCS und zu älteren Punkten in der Vergangenheit springen, 
+um die alten Dateien zu bekommen.
+
+VCS ist die perfekte Umgebung, um mit Kollegen 
+zusammenzuarbeiten, jeder macht Änderungen am Code und 
+dann kann man jede Datei mit „merge“ zu einer zusammenführen.
+
+Für neue Projekte kann man neue „branches“ erstellen und dort
+den Code hochzuladen und nicht mit anderen Projekten in Verbindung kommen.
+
+Einfach ein git repository auf Github zum Beispiel erstellen 
+und man hat schon einen öffentlichen Platz um Dateien zu teilen.
+
+Jeder kann einen eigenen branch erstellen indem er nur seine 
+dateien hochläd und es kann auch einen main branch geben, auf 
+dem öffentliche Dateien sind.
