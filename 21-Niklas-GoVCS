@@ -1,0 +1,19 @@
+Ein Version Controll System (VCS) ist ein Programm,
+Verfolgen Sie Änderungen an Dateien in einem Ordner (Repository).
+Kann diese Änderungen verfolgen
+Springen Sie mit VCS zum alten Punkt in der Vergangenheit,
+Holen Sie sich alte Dateien.
+
+VCS ist die perfekte Umgebung, um sich mit Kollegen zu treffen
+Arbeiten Sie zusammen, nehmen alle Änderungen am Code vor,
+Anschließend können Sie mit "Zusammenführen" jede Datei zu einer Datei zusammenführen.
+
+Für neue Projekte können Sie einen neuen "Zweig" erstellen und dann dort
+Laden Sie den Code hoch und nehmen Sie nicht an anderen Projekten teil.
+
+Erstellen Sie beispielsweise einfach ein Git-Repository auf Github
+Und Sie haben bereits einen öffentlichen Ort zum Freigeben von Dateien.
+
+Jeder kann seinen eigenen Zweig erstellen, indem er seinen eigenen Zweig hat
+Datei-Upload, es kann auch einen Master-Zweig geben
+Welches sind öffentliche Dokumente.
